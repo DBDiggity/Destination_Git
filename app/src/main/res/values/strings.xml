@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Destination: SVG</string>
+    <string name="main_looking">I\'m looking for</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="seaside_title">Enjoy The Seaside</string>
+    <string name="seaside_imageDescription">Seaside Image</string>
+    <string name="seaside_intro">1 day/night with the sea at your doorstep. Perfect for anyone who loves the waves, the wind, and the wide open sea.</string>
+    <string name="seaside_header_discover">Discover</string>
+    <string name="seaside_header_stay">Beachfront Accomodations</string>
+</resources>

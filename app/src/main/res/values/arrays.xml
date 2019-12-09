@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="titles">
+        <item>Nav</item>
+        <item>Strip</item>
+        <item>Bar</item>
+    </array>
+
+</resources>
