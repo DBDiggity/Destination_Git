@@ -60,7 +60,7 @@ public class HomeFrag extends Fragment{
         indicator.setupWithViewPager(viewPager);
         viewPager.setAutoScrollDurationFactor(9.5);
         viewPager.setStopScrollWhenTouch(true);
-        viewPager.startAutoScroll(15000);
+//        viewPager.startAutoScroll(15000);
         viewPager.setInterval(10000);
         viewPager.setCycle(true);
         //TODO note: When viewpager gets to end, fade to first fragment and restart auto scrolling
@@ -69,7 +69,7 @@ public class HomeFrag extends Fragment{
             @Override
             public boolean onTouch(View v, MotionEvent event) {
                 viewPager.stopAutoScroll();
-                viewPager.startAutoScroll(15000);
+//                viewPager.startAutoScroll(15000);
                 return false;
             }
 

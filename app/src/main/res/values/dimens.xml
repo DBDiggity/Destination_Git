@@ -15,11 +15,13 @@
     <dimen name="intro_text_margins">25dp</dimen>
     <dimen name="view_margin_default">15dp</dimen>
     <dimen name="home_margin_intersect">15dp</dimen>
+    <dimen name="divider_margin_normal">10dp</dimen>
 
 <!--Sizes-->
     <dimen name="toolbar_height">55dp</dimen>
     <dimen name="home_text_header">20dp</dimen>
+    <dimen name="horizontal_line_size">1dp</dimen>
 
 <!--New-->
-
+    <dimen name="new_additions">0dp</dimen>
 </resources>
